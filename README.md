@@ -17,7 +17,7 @@ Un viaje de desafíos, colaboración y crecimiento personal
 
 ✨ Dato curioso: Me gusta filosofar sobre el futuro de las tecnologías y su impacto en la sociedad ¡Pregúntame algo al respecto!
 
-🚲 En mi tiempo libre, me gusta entrenar, surfear y jugar juegos de mesa con la familia.
+🏄 En mi tiempo libre, me gusta entrenar, surfear y jugar juegos de mesa con la familia.
 
 
 ⚡ I am an philosopher, bartender and surfer. Now also dev
