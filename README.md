@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🚀 sobre mi
-Me esfuerzo por aprender un poco más cada día...
+
 Mi pasión es aprender sobre start ups, liderazgo, gestión y creatividad/innovación.
 
 🌍 siempre he soñado en construir productos innovadores con una experiencia de usuario muy limpia y que impacte significativamente en el mercado global.
