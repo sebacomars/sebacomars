@@ -9,11 +9,11 @@ Actualmente, estoy disponible para trabajar o participar cualquier proyecto inde
 
 Un viaje de desafíos, colaboración y crecimiento personal
 
-⚙️ Uso a diario: Java. Spring Boot. HTML . SQL
+⚙️ tecnologias que he usado: Java. Spring Boot. HTML. SQL. Spark AR
 
 🌱 Aprendiendo Realidad aumentada, flutter y venture capital
 
-👯 Pregúntame sobre coctelería, filosofía, entrenamiento, experiencias de usuario y de grandes ideas.
+👯 Pregúntame sobre coctelería, filosofía, entrenamiento, experiencias de usuario y ideas.
 
 ✨ Dato curioso: Me gusta filosofar sobre el futuro de las tecnologías y su impacto en la sociedad ¡Pregúntame algo al respecto!
 
