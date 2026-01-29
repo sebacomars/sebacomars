@@ -1,21 +1,45 @@
-### Hi there 👋
-## 🚀 sobre mi
+## Hi everyone, I'm Sebastián Correa 👋  
+**Software Developer | Systems Engineer | CS – Stanford (Code in Place)**
 
-🚀 Sobre mí
+### About me
+I'm a software developer passionate about **automating processes**, turning **manual work into efficient systems**, and building **real-world products** that improve how people and businesses operate.
 
-Construyo productos digitales en la intersección entre tecnología, startups y diseño de experiencias. Me motiva crear soluciones simples, bien pensadas y con impacto real, pensadas para escalar a nivel global.
+I enjoy the full product cycle: understanding the problem, building the solution, launching it, observing real user behavior, and iterating based on **real feedback, not assumptions**.
 
-Creo en el aprendizaje constante, en construir primero y optimizar después, y en crecer a través de desafíos reales. Hoy estoy disponible para colaborar en proyectos, startups o iniciativas independientes, especialmente en etapas tempranas.
+### 💬 Some words that describe me
+- Curiosity  
+- Intuition  
+- Analytical thinking  
+- Research mindset  
+- Perseverance & patience  
+- Problem solving  
+- Adaptability to change  
 
-⚙️ Stack actual
+### 🎯 What drives me
+- Learning new things constantly  
+- Meeting new people and perspectives  
+- Embracing change and challenges  
+- Building technology with real impact  
+- Working in collaborative, team-oriented environments  
 
-Trabajo principalmente con React, Next.js, Node.js, Vercel, SQL y Supabase, enfocándome en productos bien diseñados, MVPs funcionales y experiencias de usuario claras. Uso herramientas modernas de despliegue y automatización para mover rápido sin sacrificar calidad.
+---
 
-🌱 En aprendizaje continuo
+### ⚡ Languages & Technologies
+🌐 **Languages & Frameworks**  
+Java · Python · Spring · MySQL · HTML5 · CSS · JavaScript · Bootstrap · Node.js · React · Redux · Express · Sequelize  
 
-Profundizo en arquitectura de productos SaaS, inteligencia artificial aplicada, venture capital, y exploro Flutter y realidad aumentada desde un enfoque experimental.
+⚙️ **Tools & Platforms**  
+Git · GitHub · Postman  
 
-✨ Un poco más personal
+🔧 **IDEs & Editors**  
+Visual Studio Code · IntelliJ IDEA · PyCharm · WebStorm  
 
-⚡ I am an philosopher, bartender and surfer. Now also dev
+🖥 **Creative Tools**  
+Photoshop · After Effects · Cubase  
 
+---
+
+### 📫 Contact me
+- LinkedIn: *(add your link here)*  
+- Email: *(add your email here)*  
+- Portfolio / Projects: *(optional)*  
