@@ -1,24 +1,21 @@
 ### Hi there 👋
 ## 🚀 sobre mi
 
-Mi pasión es aprender sobre start ups, liderazgo, gestión y creatividad/innovación.
+🚀 Sobre mí
 
-🌍 siempre he soñado en construir productos innovadores con una experiencia de usuario muy limpia y que impacte significativamente en el mercado global.
+Construyo productos digitales en la intersección entre tecnología, startups y diseño de experiencias. Me motiva crear soluciones simples, bien pensadas y con impacto real, pensadas para escalar a nivel global.
 
-Actualmente, estoy disponible para trabajar o participar cualquier proyecto independiente.
+Creo en el aprendizaje constante, en construir primero y optimizar después, y en crecer a través de desafíos reales. Hoy estoy disponible para colaborar en proyectos, startups o iniciativas independientes, especialmente en etapas tempranas.
 
-Un viaje de desafíos, colaboración y crecimiento personal
+⚙️ Stack actual
 
-⚙️ tecnologias que he usado: Java. Spring Boot. HTML. SQL. Spark AR
+Trabajo principalmente con React, Next.js, Node.js, Vercel, SQL y Supabase, enfocándome en productos bien diseñados, MVPs funcionales y experiencias de usuario claras. Uso herramientas modernas de despliegue y automatización para mover rápido sin sacrificar calidad.
 
-🌱 Aprendiendo Realidad aumentada, flutter y venture capital
+🌱 En aprendizaje continuo
 
-👯 Pregúntame sobre coctelería, filosofía, entrenamiento, experiencias de usuario y ideas.
+Profundizo en arquitectura de productos SaaS, inteligencia artificial aplicada, venture capital, y exploro Flutter y realidad aumentada desde un enfoque experimental.
 
-✨ Dato curioso: Me gusta filosofar sobre el futuro de las tecnologías y su impacto en la sociedad ¡Pregúntame algo al respecto!
-
-🏄 En mi tiempo libre, me gusta entrenar, surfear y jugar juegos de mesa con la familia.
-
+✨ Un poco más personal
 
 ⚡ I am an philosopher, bartender and surfer. Now also dev
 
