@@ -26,20 +26,19 @@ I enjoy the full product cycle: understanding the problem, building the solution
 
 ### ⚡ Languages & Technologies
 🌐 **Languages & Frameworks**  
-Java · Python · Spring · MySQL · HTML5 · CSS · JavaScript · Bootstrap · Node.js · React · Redux · Express · Sequelize  
+Java · Python · Spring Boot · SQL · HTML5 · CSS · JavaScript · Node.js · React · Next.js · Tailwind CSS  
 
 ⚙️ **Tools & Platforms**  
-Git · GitHub · Postman  
+Git · GitHub · Postman · Supabase · Vercel  
 
 🔧 **IDEs & Editors**  
-Visual Studio Code · IntelliJ IDEA · PyCharm · WebStorm  
+Cursor · Visual Studio Code · IntelliJ IDEA · PyCharm  
 
 🖥 **Creative Tools**  
-Photoshop · After Effects · Cubase  
+Photoshop · After Effects  
 
 ---
 
 ### 📫 Contact me
-- LinkedIn: *(add your link here)*  
-- Email: *(add your email here)*  
-- Portfolio / Projects: *(optional)*  
+- LinkedIn: https://www.linkedin.com/in/sebasti%C3%A1n-correa-marfull-96a6642b7/  
+
